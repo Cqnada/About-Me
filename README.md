@@ -1,10 +1,10 @@
-# Code
-Public Artwork
+# Welcome to my GitHub
 
-# Author: Cqnada
-# public: true
 
-{
+ Author: Cqnada
+ public: true
+
+
     // Info:
     # Discord - Cqnada#5255
     # Steam - /id/tangoworldwidedotnet
@@ -20,6 +20,6 @@ Public Artwork
     # Steel Series Rival 110
     # Corsair K55 Keyboard
     
-}
+
     
     
